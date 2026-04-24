@@ -6,9 +6,9 @@ import sys
 HOME_SSID = "SSID-name"          # your home Wi-Fi name
 INTERFACE_NAME = "Wi-Fi"          # Windows adapter name
 
-STATIC_IP = "192.168.0.200"
+STATIC_IP = "192.168.7.200"
 SUBNET_MASK = "255.255.255.0"
-GATEWAY = "192.168.0.1"
+GATEWAY = "192.168.7.1"
 
 DNS_PRIMARY = "8.8.8.8"
 DNS_SECONDARY = "1.1.1.1"
